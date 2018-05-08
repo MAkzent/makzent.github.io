@@ -1,2 +1,2 @@
-# makzent.github.io
-Website
+# AKZLAB 
+This is my personal website.
