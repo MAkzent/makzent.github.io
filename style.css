@@ -119,7 +119,11 @@ ul {
   }
 
 i:hover {
+<<<<<<< HEAD
     color: rgb(82, 172, 155);
+=======
+    color: rgb(190, 72, 46);
+>>>>>>> c2de5ebc9a109280791120abe1cbe6c9c8401369
   }
 
 .fa-linkedin{
