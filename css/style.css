@@ -167,6 +167,13 @@ ul li a{
 #techno{
     background-image: url("../images/techno.jpg");
 }
+#ramen{
+    background-image: url("../images/ramen.jpg");
+}
+#crypto{
+    background-image: url("../images/eth.png");
+}
+
 
 .overlay {
     height: 100%;
