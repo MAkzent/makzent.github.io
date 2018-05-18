@@ -181,6 +181,10 @@ ul li a{
     opacity: 1;
   }
 
+  .images:focus .overlay {
+    opacity: 1;
+  }
+
 .text {
     text-transform: uppercase;
     color: white;
