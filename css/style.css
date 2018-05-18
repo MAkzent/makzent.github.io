@@ -76,7 +76,7 @@ ul li a{
 
 .profile #avatar {
     border-radius: 50%;
-    max-width: 180px;
+    max-width: 200px;
     width: 80%;
 }
 
@@ -109,6 +109,10 @@ ul li a{
 }
 
 /* RIGHT SIDE */
+
+.intro {
+    margin-top: 20px;
+}
 
 .intro h3 {
     text-transform: uppercase;
